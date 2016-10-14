@@ -31,7 +31,7 @@ import com.example.navigationdrawer.fragment.SettingsFragment;
 import com.example.navigationdrawer.other.CircleTransform;
 
 public class MainActivity extends AppCompatActivity {
-
+//kljkjkjklhkjhkjhhjkjh
     private NavigationView navigationView;
     private DrawerLayout drawer;
     private View navHeader;
